@@ -9,7 +9,7 @@ int main(){
   printf("+- b - Cappucino   -------------------+\n");
   printf("+- c - Macchiato -------------------+\n");
   printf("+- Escolha: ");
-  scanf("%c", escolha);
+  scanf("%c", &escolha);
 
 switch(escolha){
     case 'a':
