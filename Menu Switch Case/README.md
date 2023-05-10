@@ -1,4 +1,4 @@
-# MENU COM SWITCH CASE
+# Menu com Switch Case
 
 ### Mostrando o uso do Switch Case com Char ou Int
 ### Projeto desenvolvido no VScode através do Curso C completo da Danki Code
