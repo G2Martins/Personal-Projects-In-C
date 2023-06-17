@@ -1,7 +1,4 @@
-
-
-
-
+# Código Fonte Da 2° Versão Do Paper Rock Scissor
 
 ## Critérios e Metodologias Para Criação da 2° Versão:
 
