@@ -12,3 +12,5 @@
 - Manipulação do nome do player pelo game inteiro
 - Jogada Do computador gerado de maneira Aleatória
 - Exposição a cada rodada das Jogadas Escolhidas pela CPU e pelo Player
+
+<img src="https://media.giphy.com/media/3ohzdGnD5vAud1NCZW/giphy.gif" alt="drawing" width="100%"/>
